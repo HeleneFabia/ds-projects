@@ -12,6 +12,8 @@ Analysis of loans to low-income entrepreneurs and students in Pakistan, Kenya, E
   <img width="600" height="400" src="https://github.com/HeleneFabia/ds-projects/blob/master/kiva_loans/kiva-visualization.png">
 </p>
 
+***
+
 **[Life Expectancy and GDP](https://github.com/HeleneFabia/ds-projects/blob/master/life_expectancy_gdp/life_expectancy_gdp.ipynb)**
 
 Analysis of the relationship between life expectancy and GDP in Chile, China, Germany, Mexico, and the US between 2000 and 2015. 
@@ -19,6 +21,8 @@ Analysis of the relationship between life expectancy and GDP in Chile, China, Ge
 <p align="left">
   <img width="700" height="500" src="https://github.com/HeleneFabia/ds-projects/blob/master/life_expectancy_gdp/life_exp_gdp.png">
 </p>
+
+***
 
 **[Masculinity Survey](https://github.com/HeleneFabia/ds-projects/blob/master/masculinity_survey/masculinity_project.ipynb)**
 
@@ -28,6 +32,8 @@ Analysis of a survey about sense of masculinity amongst adult men by [FiveThirty
   <img width="1000" height="750" src="https://github.com/HeleneFabia/ds-projects/blob/master/masculinity_survey/masculinity.png">
 </p>
 
+***
+
 **[Rollercoasters](https://github.com/HeleneFabia/ds-projects/blob/master/roller_coasters/roller_coasters.ipynb)**
 
 Analysis of award-winning wood and steel roller coasters around the world.
@@ -35,6 +41,8 @@ Analysis of award-winning wood and steel roller coasters around the world.
 <p align="left">
   <img width="600" height="400" src="https://github.com/HeleneFabia/ds-projects/blob/master/roller_coasters/roller_coasters.png">
 </p>
+
+***
 
 **[Twitter](https://github.com/HeleneFabia/ds-projects/blob/master/twitter/tweet_location.ipynb)**
 
