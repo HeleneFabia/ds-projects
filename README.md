@@ -29,7 +29,7 @@ Analysis of the relationship between life expectancy and GDP in Chile, China, Ge
 Analysis of a survey about sense of masculinity amongst adult men by [FiveThirtyEight](https://fivethirtyeight.com)
 
 <p align="left">
-  <img width="1000" height="750" src="https://github.com/HeleneFabia/ds-projects/blob/master/masculinity_survey/masculinity.png">
+  <img width="1700" height="800" src="https://github.com/HeleneFabia/ds-projects/blob/master/masculinity_survey/masculinity.png">
 </p>
 
 ***
